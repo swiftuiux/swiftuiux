@@ -16,12 +16,12 @@
 
 9. [**Grand Access**](https://github.com/The-Igor/grand-access) - Manage permissions and access for iOS devices.
 
-10. [**Color**](https://github.com/The-Igor/d3-color) - Color manipulation utility for Swift apps.
+10. [**SwiftUI Loop VideoPlayer**](https://github.com/The-Igor/swiftui-loop-videoplayer) - Looping video playback component for SwiftUI.
 
-11. [**SwiftUI Loop VideoPlayer**](https://github.com/The-Igor/swiftui-loop-videoplayer) - Looping video playback component for SwiftUI.
+11. [**Menu Bar**](https://github.com/The-Igor/d3-menu-bar) - Customizable iOS menu bar in Swift.
 
-12. [**Menu Bar**](https://github.com/The-Igor/d3-menu-bar) - Customizable iOS menu bar in Swift.
+12. [**Retry Policy Service**](https://github.com/The-Igor/retry-policy-service) - Specify retry policies for operations in Swift.
 
-13. [**Retry Policy Service**](https://github.com/The-Igor/retry-policy-service) - Specify retry policies for operations in Swift.
+13. [**SwiftUI Search Field Shell Line**](https://github.com/The-Igor/swiftui-search-field-shell-line) - Responsive search field UI component for various applications.
 
-14. [**SwiftUI Search Field Shell Line**](https://github.com/The-Igor/swiftui-search-field-shell-line) - Responsive search field UI component for various applications.
+14. [**Color**](https://github.com/The-Igor/d3-color) - Color manipulation utility for Swift apps.
