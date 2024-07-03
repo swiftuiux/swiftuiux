@@ -14,7 +14,7 @@
 
 # UX/UI
 
-- [**Stories Instagram**](https://github.com/The-Igor/d3-stories-instagram) - Instagram-like stories in SwiftUI iOS 15+  and macOS 12+
+- [**Stories Instagram**](https://github.com/The-Igor/d3-stories-instagram) - Instagram stories UI component in SwiftUI iOS 15+  and macOS 12+
 
 - [**Scrollable Menu List**](https://github.com/The-Igor/d3-scrollable-menu-list) - Scrollable menu list for navigation in SwiftUI for iOS 15+ and macOS 12+
 
