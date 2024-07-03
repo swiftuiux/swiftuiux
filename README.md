@@ -1,4 +1,4 @@
-| **Package Description** | **Badge** |
+| **Package Description** | **Platforms** |
 |--------------------------|------------|
 | [**OpenAI Async Image SwiftUI**](https://github.com/The-Igor/openai-async-image-swiftui) - AI-generated images asynchronously | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FThe-Igor%2Fopenai-async-image-swiftui%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/The-Igor/openai-async-image-swiftui) |
 | [**Replicate Kit Swift**](https://github.com/The-Igor/replicate-kit-swift) - Use Replicate API for machine learning tasks | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FThe-Igor%2Freplicate-kit-swift%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/The-Igor/replicate-kit-swift) |
@@ -10,10 +10,10 @@
 
 ## UX/UI
 
-| **Package Description** | **Badge** |
+| **Package Description** | **Platforms** |
 |--------------------------|------------|
 | [**Stories Instagram**](https://github.com/The-Igor/d3-stories-instagram) - Instagram stories UI component | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FThe-Igor%2Fd3-stories-instagram%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/The-Igor/d3-stories-instagram) |
-| [**Scrollable Menu List**](https://github.com/The-Igor/d3-scrollable-menu-list) - Scrollable menu list for navigation | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FThe-Igor%2Fd3-scrollable-menu-list%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/The-Igor/d3-scrollable-menu-list) |
+| [**Scrollable Menu List**](https://github.com/The-Igor/d3-scrollable-menu-list) - Scrollable menu list for navigation usually used in food apps | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FThe-Igor%2Fd3-scrollable-menu-list%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/The-Igor/d3-scrollable-menu-list) |
 | [**Bottom Sheet Drawer**](https://github.com/The-Igor/swiftui-bottom-sheet-drawer) - Customizable bottom sheet drawer | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FThe-Igor%2Fswiftui-bottom-sheet-drawer%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/The-Igor/swiftui-bottom-sheet-drawer) |
 | [**Loop VideoPlayer**](https://github.com/The-Igor/swiftui-loop-videoplayer) - Looping video playback component iOS 14+ | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FThe-Igor%2Fswiftui-loop-videoplayer%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/The-Igor/swiftui-loop-videoplayer) |
 | [**ShareLink**](https://github.com/The-Igor/sharelink-for-swiftui) - ShareLink button for SwiftUI iOS 14+ | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FThe-Igor%2Fsharelink-for-swiftui%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/The-Igor/sharelink-for-swiftui) |
