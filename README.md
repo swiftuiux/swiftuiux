@@ -24,7 +24,7 @@
 
 - [**ShareLink**](https://github.com/The-Igor/sharelink-for-swiftui) - ShareLink button for SwiftUI iOS 14+ [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FThe-Igor%2Fsharelink-for-swiftui%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/The-Igor/sharelink-for-swiftui)
 
-- [**Menu Bar**](https://github.com/The-Igor/d3-menu-bar) - Customizable iOS menu bar (https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FThe-Igor%2Fd3-menu-bar%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/The-Igor/d3-menu-bar)
+- [**Menu Bar**](https://github.com/The-Igor/d3-menu-bar) - Customizable iOS menu bar  (https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FThe-Igor%2Fd3-menu-bar%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/The-Igor/d3-menu-bar)
 
 - [**Search Field**](https://github.com/The-Igor/swiftui-search-field-shell-line) - Responsive search field UI component [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FThe-Igor%2Fswiftui-search-field-shell-line%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/The-Igor/swiftui-search-field-shell-line)
 
