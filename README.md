@@ -1,10 +1,10 @@
-- [**OpenAI Async Image SwiftUI**](https://github.com/The-Igor/openai-async-image-swiftui) - Display AI-generated images asynchronously in SwiftUI
+- [**OpenAI Async Image SwiftUI**](https://github.com/The-Igor/openai-async-image-swiftui) - Display AI-generated images asynchronously in SwiftUI iOS 15+
 
 - [**Replicate Kit Swift**](https://github.com/The-Igor/replicate-kit-swift) - Use Replicate API for machine learning tasks in Swift
 
 - [**CoreML Stable Diffusion Swift**](https://github.com/The-Igor/coreml-stable-diffusion-swift) - AI-powered image generation with CoreML
 
-- [**Async Location**](https://github.com/The-Igor/d3-async-location) - Stream location data asynchronously in real-time apps
+- [**Async Location**](https://github.com/The-Igor/d3-async-location) - Stream location data asynchronously in real-time apps  iOS 15+
 
 - [**Async HTTP Client**](https://github.com/The-Igor/async-http-client) - Asynchronous web requests with modern Swift concurrency
 
@@ -14,11 +14,11 @@
 
 # UX/UI
 
-- [**Stories Instagram**](https://github.com/The-Igor/d3-stories-instagram) - Instagram-like stories in SwiftUI
+- [**Stories Instagram**](https://github.com/The-Igor/d3-stories-instagram) - Instagram-like stories in SwiftUI iOS 15+  and macOS 12+
 
-- [**Scrollable Menu List**](https:/github.com/The-Igor/d3-scrollable-menu-list) - Scrollable menu list for navigation in SwiftUI.
+- [**Scrollable Menu List**](https://github.com/The-Igor/d3-scrollable-menu-list) - Scrollable menu list for navigation in SwiftUI for iOS 15+ and macOS 12+
 
-- [**Bottom Sheet Drawer**](https://github.com/The-Igor/swiftui-bottom-sheet-drawer) - Customizable bottom sheet drawer for iOS and macOS
+- [**Bottom Sheet Drawer**](https://github.com/The-Igor/swiftui-bottom-sheet-drawer) - Customizable bottom sheet drawer for iOS 15+ and macOS 12+
 
 - [**Loop VideoPlayer**](https://github.com/The-Igor/swiftui-loop-videoplayer) - Looping video playback component for SwiftUI iOS 14+
 
