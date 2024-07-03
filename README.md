@@ -1,4 +1,4 @@
-- [**OpenAI Async Image SwiftUI**](https://github.com/The-Igor/openai-async-image-swiftui) - Display AI-generated images asynchronously in SwiftUI iOS 15+
+- [**OpenAI Async Image SwiftUI**](https://github.com/The-Igor/openai-async-image-swiftui) - Display AI-generated images asynchronously [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FThe-Igor%2Fopenai-async-image-swiftui%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/The-Igor/openai-async-image-swiftui)
 
 - [**Replicate Kit Swift**](https://github.com/The-Igor/replicate-kit-swift) - Use Replicate API for machine learning tasks in Swift
 
