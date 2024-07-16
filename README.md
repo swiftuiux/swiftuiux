@@ -1,5 +1,7 @@
 ## Developing
+
 | **Package Description** | **Platforms** |
+|--------------------------|------------|
 | [**Bluetooth Low Energy**](https://github.com/The-Igor/bluetooth-law-energy-swift) - BLE service | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FThe-Igor%2Fbluetooth-law-energy-swift%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/The-Igor/bluetooth-law-energy-swift) |
 
 
