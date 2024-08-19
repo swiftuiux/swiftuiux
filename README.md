@@ -5,6 +5,8 @@
 | [**Bluetooth Low Energy**](https://github.com/The-Igor/bluetooth-law-energy-swift) - BLE Kit Scanning and Management | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FThe-Igor%2Fbluetooth-law-energy-swift%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/The-Igor/bluetooth-law-energy-swift) |
 | [**CoreML Stable Diffusion Swift**](https://github.com/The-Igor/coreml-stable-diffusion-swift) - AI-powered image generation with CoreML | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FThe-Igor%2Fcoreml-stable-diffusion-swift%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/The-Igor/coreml-stable-diffusion-swift) |
 
+## Services
+
 | **Package Description** | **Platforms** |
 |--------------------------|------------|
 | [**OpenAI Async Image SwiftUI**](https://github.com/The-Igor/openai-async-image-swiftui) - AI-generated images asynchronously | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FThe-Igor%2Fopenai-async-image-swiftui%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/The-Igor/openai-async-image-swiftui) |
