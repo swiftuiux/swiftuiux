@@ -25,7 +25,7 @@
 | [**ShareLink**](https://github.com/igor11191708/sharelink-for-swiftui) - ShareLink button for SwiftUI iOS 14+ | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Figor11191708%2Fsharelink-for-swiftui%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/igor11191708/sharelink-for-swiftui) |
 | [**Grand Access**](https://github.com/igor11191708/grand-access) - Manage access to Camera, Contacts, Microphone, Photo Library| [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Figor11191708%2Fgrand-access%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/igor11191708/grand-access) |
 | [**Retry Policy Service**](https://github.com/igor11191708/retry-policy-service) - Specify retry policies for operations | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Figor11191708%2Fretry-policy-service%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/igor11191708/retry-policy-service) |
-| [**Async task management](https://github.com/igor11191708/async-task) - Tools and types for managing asynchronous tasks | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Figor11191708%2Fasync-task%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/igor11191708/async-task) |
+| [**Async task management**](https://github.com/igor11191708/async-task) - Tools and types for managing asynchronous tasks | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Figor11191708%2Fasync-task%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/igor11191708/async-task) |
 
 ## UX/UI
 
