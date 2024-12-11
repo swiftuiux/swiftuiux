@@ -6,7 +6,7 @@
 | **Package Description** | **Platforms** |
 |--------------------------|------------|
 | [**Video player**](https://github.com/swiftuiux/swiftui-loop-videoplayer) - Video playback component iOS 14+ | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fswiftui-loop-videoplayer%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swiftuiux/swiftui-loop-videoplayer) |
-| [**🔵📡📶**](https://github.com/swiftuiux/bluetooth-law-energy-swift) - BLE Kit Scanning and Management | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fbluetooth-law-energy-swift%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swiftuiux/bluetooth-law-energy-swift) |
+| [**🔵 📡 📶**](https://github.com/swiftuiux/bluetooth-law-energy-swift) - BLE Kit Scanning and Management | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fbluetooth-law-energy-swift%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swiftuiux/bluetooth-law-energy-swift) |
 | [**Async task kit**](https://github.com/swiftuiux/async-task) - Tools and types for managing asynchronous tasks | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fasync-task%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swiftuiux/async-task) |
 
 ## AI Generation
