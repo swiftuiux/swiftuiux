@@ -7,7 +7,6 @@
 |--------------------------|------------|
 | [**Video player**](https://github.com/swiftuiux/swiftui-loop-videoplayer) - Video playback component iOS 14+ | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fswiftui-loop-videoplayer%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swiftuiux/swiftui-loop-videoplayer) |
 | [**Async task kit**](https://github.com/swiftuiux/async-task) - Tools and types for managing asynchronous tasks | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fasync-task%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swiftuiux/async-task) |
-| [**BLE Kit**](https://github.com/swiftuiux/bluetooth-law-energy-swift) - Asynchronous bluetooth low energy Kit | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fbluetooth-law-energy-swift%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swiftuiux/bluetooth-law-energy-swift) |
 
 ## AI Generation
 | **Package Description** | **Platforms** |
@@ -25,6 +24,7 @@
 | [**Grand Access**](https://github.com/swiftuiux/grand-access) - Manage access to Camera, Contacts, Microphone, Photo Library| [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fgrand-access%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swiftuiux/grand-access) |
 | [**Retry Policy Service**](https://github.com/swiftuiux/retry-policy-service) - Specify retry policies for operations | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fretry-policy-service%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swiftuiux/retry-policy-service) |
 | [**ShareLink**](https://github.com/swiftuiux/sharelink-for-swiftui) - ShareLink button for SwiftUI iOS 14+ | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fsharelink-for-swiftui%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swiftuiux/sharelink-for-swiftui) |
+| [**BLE Kit**](https://github.com/swiftuiux/bluetooth-law-energy-swift) - Asynchronous bluetooth low energy Kit | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fbluetooth-law-energy-swift%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swiftuiux/bluetooth-law-energy-swift) |
 
 ## UX/UI
 
