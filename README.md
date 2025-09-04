@@ -12,7 +12,7 @@
 | **Package Description** | **Platforms** |
 |--------------------------|------------|
 | [**OpenAI Async Image SwiftUI**](https://github.com/swiftuiux/openai-async-image-swiftui) - AI-generated images asynchronously | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fopenai-async-image-swiftui%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swiftuiux/openai-async-image-swiftui) |
-| [**CoreML Stable Diffusion Swift**](https://github.com/swiftuiux/coreml-stable-diffusion-swift) - AI image generation with CoreML | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fcoreml-stable-diffusion-swift%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swiftuiux/coreml-stable-diffusion-swift) |
+| [**CoreML Stable Diffusion Swift**](https://github.com/swiftuiux/coreml-stable-diffusion-swift-example) - AI image generation with CoreML | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fcoreml-stable-diffusion-swift%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swiftuiux/coreml-stable-diffusion-swift) |
 | [**Replicate Kit Swift**](https://github.com/swiftuiux/replicate-kit-swift) - Use Replicate API for machine learning tasks | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Freplicate-kit-swift%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swiftuiux/replicate-kit-swift) |
 
 ## Services
